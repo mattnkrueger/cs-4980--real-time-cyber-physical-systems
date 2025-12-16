@@ -7,9 +7,10 @@ Coursework consisted of two paper presentations, one project proposal presentati
 
 Each week, two papers were read and presented after which a weekly quiz was given to test knowledge. 
 
-Presentation Structure: 30min lecture + 5min Q/A (approx.)
-Quiz Structure: 3-5 free response questions targeting weekly topics
-Final Project Structure: study or implementation (I chose study)
+**Course Assignments:**
+- Presentation Structure: 30min lecture + 5min Q/A (approx.)
+- Quiz Structure: 3-5 free response questions targeting weekly topics
+- Final Project Structure: study or implementation (I chose study)
 
 ## Paper List
 ### Presentation 1
