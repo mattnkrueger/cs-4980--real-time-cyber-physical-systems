@@ -29,7 +29,7 @@ Each week, two papers were read and presented after which a weekly quiz was give
 
 ### Presentation 2
 
-| Paper Title | DOI / Link |
+| Paper Title | DOI |
 |------------|------------|
 | Real-time Power-Aware Routing in Sensor Networks | 10.1109/IWQOS.2006.250454 |
 | Better Never than Late: Meeting Deadlines in Datacenter Networks | 10.1145/2043164.2018443 |
