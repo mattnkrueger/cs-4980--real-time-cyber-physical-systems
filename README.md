@@ -35,7 +35,7 @@ Each week, two papers were read and presented after which a weekly quiz was give
 | Better Never than Late: Meeting Deadlines in Datacenter Networks | 10.1145/2043164.2018443 |
 | Time-division TCP for Reconfigurable Data Center Networks | 10.1145/3544216.3544254 |
 | Contention-Free Configured Grant Scheduling for 5G URLLC Traffic | 10.1109/DAC56929.2023.10247842 |
-| Multi-Traffic Resource Optimization for Real-Time Applications with 5G Configured Grant Scheduling | https://dl.acm.org/doi/10.1145/3664621 |
+| Multi-Traffic Resource Optimization for Real-Time Applications with 5G Configured Grant Scheduling | 10.1145/3664621 |
 | 5G Centralized Multi-Cell Scheduling for URLLC: Algorithms and System-Level Performance | 10.1109/ACCESS.2018.2880289 |
 | Enhanced Reliability in Mobility Scenarios Using Multi-Connectivity with Packet Duplication for Next-Generation Networks | 10.1186/s13638-025-02463-y |
 
