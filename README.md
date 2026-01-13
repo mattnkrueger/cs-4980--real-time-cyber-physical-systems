@@ -57,7 +57,7 @@ Presentation 2: 5G
 Final Project Presentation (STUDY): Comparison of Thread, Zigbee, and ZWave for Home Automation
 - proposal presentation: [proposal_presentation.pdf](./project/proposal_presentation.pdf)
 - final slides: [final_project-comparison_of_thread_zigbee_and_zwave_for_home_automation.pdf](./project/final_project-comparison_of_thread_zigbee_and_zwave_for_home_automation.pdf)
-- grade: N/A
+- grade: 90
 
 Quiz 1: 100/100
 Quiz 2: 93/100
