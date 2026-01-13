@@ -54,7 +54,7 @@ Presentation 2: 5G
 - time: 31min
 - grade: 92/100
 
-Final Project Presentation (STUDY): Comparison of Thread, Zigbee, and ZWave for Home Automation
+Final Project Presentation: Comparison of Thread, Zigbee, and ZWave for Home Automation
 - proposal presentation: [proposal_presentation.pdf](./project/proposal_presentation.pdf)
 - final slides: [final_project-comparison_of_thread_zigbee_and_zwave_for_home_automation.pdf](./project/final_project-comparison_of_thread_zigbee_and_zwave_for_home_automation.pdf)
 - grade: 90/100
