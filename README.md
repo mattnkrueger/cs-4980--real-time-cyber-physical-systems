@@ -9,6 +9,7 @@ Contents of the _Topics in Computer Science II: Real Time Cyber Physical Systems
 <div align="left">
   <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+  <img src="tags/powerpoint.svg" width="60" alt="Powerpoint" />
 </div>
 
 ---
