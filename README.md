@@ -1,13 +1,23 @@
 # CS-4980-0007-real-time-cyber-physical-systems
 
+### Description:
 Contents of the _Topics in Computer Science II: Real Time Cyber Physical Systems_ taken at the University of Iowa, Fall 2025.
 
+---
+
+### Project Tags
+<div align="left">
+  <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
+  <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+</div>
+
+---
+
+**Course Assignments:**
 This course was structured as a literary analysis/peer review of real-time cyber physical systems present in industry.
 Coursework consisted of two paper presentations, one project proposal presentation, and a final project.
 
 Each week, two papers were read and presented after which a weekly quiz was given to test knowledge. 
-
-**Course Assignments:**
 - Presentation Structure: 30min lecture + 5min Q/A (approx.)
 - Quiz Structure: 3-5 free response questions targeting weekly topics
 - Final Project Structure: study or implementation (I chose study)
